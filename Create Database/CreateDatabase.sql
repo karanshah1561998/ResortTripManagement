@@ -1,0 +1,2 @@
+CREATE DATABASE resort_trip_management;
+USE resort_trip_management;
