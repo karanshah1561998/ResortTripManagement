@@ -42,6 +42,7 @@ The **Resort Trip Management** System is a robust relational database solution d
 - Integration with a front-end application for user-friendly management
 - Enhanced reporting features using BI tools
 - API integration for real-time updates and external system connectivity
+
 ## Example Use Cases
 - Calculate pending payments for customers and generate alerts for overdue balances
 - Automatically log customer deletions or booking insertions for audit purposes
