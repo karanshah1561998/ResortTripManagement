@@ -1,0 +1,6 @@
+Specific Error Messages:
+
+45000: Customer doesn't exist.
+45001: Customer has no bookings.
+45002: Customer has no payments.
+45003: Invalid payment detected.
